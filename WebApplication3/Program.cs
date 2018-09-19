@@ -16,7 +16,7 @@ namespace WebApplication3
         {
             //some comment
             BuildWebHost(args).Run(); 
-            //adding somthing else
+            //adding somthing else   
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
